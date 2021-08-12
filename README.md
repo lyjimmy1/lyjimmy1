@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
-<h3 align="center">A serial hobbyist and aspiring software engineer.</h3>
+<h3 align="center">Software Engineer and Hobbyist.</h3>
 
 - 🔭 I’m currently working on **Rep-It**
 
