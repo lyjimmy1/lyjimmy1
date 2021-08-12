@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 <h3 align="center">A serial hobbyist and aspiring software engineer.</h3>
 
-- 🔭 I’m currently working on **Dream Scape**
+- 🔭 I’m currently working on **Rep-It**
 
 - 🌱 I’m currently learning **Chakra UI**
 
