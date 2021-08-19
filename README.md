@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rep-It**
 
-- 🌱 I’m currently learning **Chakra UI**
+- 🌱 I’m currently learning **DS&A**
 
 - 📫 How to reach me **lyjimmy19@gmail.com**
 
